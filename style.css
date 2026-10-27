@@ -2,3 +2,11 @@
 /* Three-language switcher on small screens */
 .lang{display:flex;align-items:center;gap:3px;flex-wrap:nowrap}.lang button{white-space:nowrap}
 @media(max-width:420px){.lang button{font-size:11px;padding:7px 6px}.brand span{font-size:15px}}
+
+/* Crisp flag graphics instead of platform-dependent emoji */
+.lang{display:flex;align-items:center;gap:4px;flex-wrap:nowrap;flex-shrink:0;background:#e9e3d5;border:1px solid #d8cebb;padding:5px;border-radius:999px}
+.lang button{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:38px;padding:7px 12px;white-space:nowrap;font-weight:800;font-size:12px;line-height:1;border-radius:100px}
+.lang button img{display:block;width:24px;height:17px;object-fit:cover;border-radius:3px;box-shadow:0 0 0 1px #0002;flex:none}
+.lang button.active{background:#17372b;color:#fff;box-shadow:0 2px 7px #0002}
+@media(max-width:700px){.header{gap:10px}.lang{gap:2px;padding:3px}.lang button{gap:4px;min-height:36px;padding:6px 7px;font-size:11px}.lang button img{width:21px;height:15px}}
+@media(max-width:380px){.brand{gap:5px}.brand img{width:36px;height:36px}.brand span{font-size:16px}.brand small{font-size:6px}.lang button{padding:6px 5px;gap:3px}.lang button img{width:19px;height:14px}}
