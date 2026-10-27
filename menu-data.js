@@ -5,7 +5,8 @@ window.SOHA_MENU = [
     "vi": "Cà Phê Đen",
     "en": "Black coffee",
     "price": 20,
-    "image": "assets/drinks/ca-phe-den.webp"
+    "image": "assets/drinks/ca-phe-den.webp",
+    "ru": "Чёрный кофе"
   },
   {
     "category": "coffee",
@@ -13,7 +14,8 @@ window.SOHA_MENU = [
     "vi": "Cà Phê Sữa",
     "en": "Vietnamese milk coffee",
     "price": 20,
-    "image": "assets/drinks/ca-phe-sua.webp"
+    "image": "assets/drinks/ca-phe-sua.webp",
+    "ru": "Вьетнамский кофе с молоком"
   },
   {
     "category": "coffee",
@@ -21,7 +23,8 @@ window.SOHA_MENU = [
     "vi": "Cà Phê Muối",
     "en": "Salted coffee",
     "price": 25,
-    "image": "assets/drinks/ca-phe-muoi.webp"
+    "image": "assets/drinks/ca-phe-muoi.webp",
+    "ru": "Солёный кофе"
   },
   {
     "category": "coffee",
@@ -29,7 +32,8 @@ window.SOHA_MENU = [
     "vi": "Bạc Sỉu",
     "en": "Creamy Vietnamese coffee",
     "price": 25,
-    "image": "assets/drinks/bac-siu.webp"
+    "image": "assets/drinks/bac-siu.webp",
+    "ru": "Бак сиу — молочный кофе"
   },
   {
     "category": "coffee",
@@ -37,7 +41,8 @@ window.SOHA_MENU = [
     "vi": "Cà Phê Dừa Nướng",
     "en": "Roasted coconut coffee",
     "price": 25,
-    "image": "assets/drinks/ca-phe-dua-nuong.webp"
+    "image": "assets/drinks/ca-phe-dua-nuong.webp",
+    "ru": "Кофе с жареным кокосом"
   },
   {
     "category": "coffee",
@@ -45,7 +50,8 @@ window.SOHA_MENU = [
     "vi": "Sữa Tươi Cà Phê",
     "en": "Fresh milk with coffee",
     "price": 25,
-    "image": "assets/drinks/sua-tuoi-ca-phe.webp"
+    "image": "assets/drinks/sua-tuoi-ca-phe.webp",
+    "ru": "Свежее молоко с кофе"
   },
   {
     "category": "matcha",
@@ -53,7 +59,8 @@ window.SOHA_MENU = [
     "vi": "Matcha Latte",
     "en": "Matcha latte",
     "price": 30,
-    "image": "assets/drinks/matcha-latte.webp"
+    "image": "assets/drinks/matcha-latte.webp",
+    "ru": "Матча латте"
   },
   {
     "category": "matcha",
@@ -61,7 +68,8 @@ window.SOHA_MENU = [
     "vi": "Matcha Coldwhisk",
     "en": "Cold whisked matcha",
     "price": 30,
-    "image": "assets/drinks/matcha-coldwhisk.webp"
+    "image": "assets/drinks/matcha-coldwhisk.webp",
+    "ru": "Холодная матча"
   },
   {
     "category": "matcha",
@@ -69,7 +77,8 @@ window.SOHA_MENU = [
     "vi": "Matcha Latte Kem Muối",
     "en": "Matcha with salted cream",
     "price": 35,
-    "image": "assets/drinks/matcha-kem-muoi.webp"
+    "image": "assets/drinks/matcha-kem-muoi.webp",
+    "ru": "Матча латте с солёной пенкой"
   },
   {
     "category": "matcha",
@@ -77,7 +86,8 @@ window.SOHA_MENU = [
     "vi": "Matcha Latte Kem Oreo",
     "en": "Oreo cream matcha",
     "price": 35,
-    "image": "assets/drinks/matcha-oreo.webp"
+    "image": "assets/drinks/matcha-oreo.webp",
+    "ru": "Матча латте с кремом Oreo"
   },
   {
     "category": "matcha",
@@ -85,7 +95,8 @@ window.SOHA_MENU = [
     "vi": "Cacao Sữa Tươi",
     "en": "Fresh milk cacao",
     "price": 30,
-    "image": "assets/drinks/cacao-sua-tuoi.webp"
+    "image": "assets/drinks/cacao-sua-tuoi.webp",
+    "ru": "Какао со свежим молоком"
   },
   {
     "category": "matcha",
@@ -93,7 +104,8 @@ window.SOHA_MENU = [
     "vi": "Cacao Latte Kem Muối",
     "en": "Cacao with salted cream",
     "price": 35,
-    "image": "assets/drinks/cacao-kem-muoi.webp"
+    "image": "assets/drinks/cacao-kem-muoi.webp",
+    "ru": "Какао латте с солёной пенкой"
   },
   {
     "category": "fruit",
@@ -104,7 +116,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/tra-dao.webp"
+    "image": "assets/drinks/tra-dao.webp",
+    "ru": "Персиковый чай"
   },
   {
     "category": "fruit",
@@ -115,7 +128,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/hong-tra-xi-muoi.webp"
+    "image": "assets/drinks/hong-tra-xi-muoi.webp",
+    "ru": "Чёрный чай с солёной сливой"
   },
   {
     "category": "fruit",
@@ -126,7 +140,8 @@ window.SOHA_MENU = [
       30,
       35
     ],
-    "image": "assets/drinks/tra-xoai-chanh-day.webp"
+    "image": "assets/drinks/tra-xoai-chanh-day.webp",
+    "ru": "Чай с манго и маракуйей"
   },
   {
     "category": "fruit",
@@ -137,7 +152,8 @@ window.SOHA_MENU = [
       30,
       35
     ],
-    "image": "assets/drinks/tra-viet-quat.webp"
+    "image": "assets/drinks/tra-viet-quat.webp",
+    "ru": "Черничный чай"
   },
   {
     "category": "fruit",
@@ -148,7 +164,8 @@ window.SOHA_MENU = [
       30,
       35
     ],
-    "image": "assets/drinks/tra-buoi-hong.webp"
+    "image": "assets/drinks/tra-buoi-hong.webp",
+    "ru": "Чай с розовым грейпфрутом"
   },
   {
     "category": "fruit",
@@ -159,7 +176,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/hong-tra-tac.webp"
+    "image": "assets/drinks/hong-tra-tac.webp",
+    "ru": "Чёрный чай с кумкватом и белыми жемчужинами"
   },
   {
     "category": "fruit",
@@ -170,7 +188,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/hong-tra-chanh.webp"
+    "image": "assets/drinks/hong-tra-chanh.webp",
+    "ru": "Чёрный чай с лимоном и белыми жемчужинами"
   },
   {
     "category": "milk",
@@ -181,7 +200,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/tra-sua-truyen-thong.webp"
+    "image": "assets/drinks/tra-sua-truyen-thong.webp",
+    "ru": "Традиционный молочный чай"
   },
   {
     "category": "milk",
@@ -192,7 +212,8 @@ window.SOHA_MENU = [
       30,
       35
     ],
-    "image": "assets/drinks/tra-sua-kem-cheese.webp"
+    "image": "assets/drinks/tra-sua-kem-cheese.webp",
+    "ru": "Молочный чай с сырной пенкой"
   },
   {
     "category": "milk",
@@ -203,7 +224,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/tra-sua-gao-rang.webp"
+    "image": "assets/drinks/tra-sua-gao-rang.webp",
+    "ru": "Молочный чай с обжаренным рисом"
   },
   {
     "category": "milk",
@@ -214,7 +236,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/tra-sua-socola.webp"
+    "image": "assets/drinks/tra-sua-socola.webp",
+    "ru": "Шоколадный молочный чай"
   },
   {
     "category": "milk",
@@ -225,7 +248,8 @@ window.SOHA_MENU = [
       25,
       30
     ],
-    "image": "assets/drinks/tra-sua-duong-den.webp"
+    "image": "assets/drinks/tra-sua-duong-den.webp",
+    "ru": "Молочный чай с тапиокой и чёрным сахаром"
   },
   {
     "category": "yogurt",
@@ -233,7 +257,8 @@ window.SOHA_MENU = [
     "vi": "Yaourt Đá",
     "en": "Iced yogurt",
     "price": 20,
-    "image": "assets/drinks/yaourt-da.webp"
+    "image": "assets/drinks/yaourt-da.webp",
+    "ru": "Йогурт со льдом"
   },
   {
     "category": "yogurt",
@@ -241,7 +266,8 @@ window.SOHA_MENU = [
     "vi": "Yaourt Việt Quất",
     "en": "Blueberry yogurt",
     "price": 25,
-    "image": "assets/drinks/yaourt-viet-quat.webp"
+    "image": "assets/drinks/yaourt-viet-quat.webp",
+    "ru": "Черничный йогурт"
   },
   {
     "category": "yogurt",
@@ -249,7 +275,8 @@ window.SOHA_MENU = [
     "vi": "Yaourt Đào",
     "en": "Peach yogurt",
     "price": 25,
-    "image": "assets/drinks/yaourt-dao.webp"
+    "image": "assets/drinks/yaourt-dao.webp",
+    "ru": "Персиковый йогурт"
   },
   {
     "category": "yogurt",
@@ -257,7 +284,8 @@ window.SOHA_MENU = [
     "vi": "Yaourt Xoài",
     "en": "Mango yogurt",
     "price": 25,
-    "image": "assets/drinks/yaourt-xoai.webp"
+    "image": "assets/drinks/yaourt-xoai.webp",
+    "ru": "Манговый йогурт"
   },
   {
     "category": "toppings",
@@ -265,7 +293,8 @@ window.SOHA_MENU = [
     "vi": "Trân Châu Trắng",
     "en": "White tapioca pearls",
     "price": 5,
-    "image": "assets/toppings/tran-chau-trang.webp"
+    "image": "assets/toppings/tran-chau-trang.webp",
+    "ru": "Белые жемчужины тапиоки"
   },
   {
     "category": "toppings",
@@ -273,7 +302,8 @@ window.SOHA_MENU = [
     "vi": "Trân Châu Đen",
     "en": "Black tapioca pearls",
     "price": 5,
-    "image": "assets/toppings/tran-chau-den.webp"
+    "image": "assets/toppings/tran-chau-den.webp",
+    "ru": "Чёрные жемчужины тапиоки"
   },
   {
     "category": "toppings",
@@ -281,7 +311,8 @@ window.SOHA_MENU = [
     "vi": "Kem Muối",
     "en": "Salted cream foam",
     "price": 5,
-    "image": "assets/toppings/kem-muoi.webp"
+    "image": "assets/toppings/kem-muoi.webp",
+    "ru": "Солёная сливочная пенка"
   },
   {
     "category": "toppings",
@@ -289,6 +320,7 @@ window.SOHA_MENU = [
     "vi": "Kem Cheese",
     "en": "Cheese foam",
     "price": 10,
-    "image": "assets/toppings/kem-cheese.webp"
+    "image": "assets/toppings/kem-cheese.webp",
+    "ru": "Сырная пенка"
   }
 ];
