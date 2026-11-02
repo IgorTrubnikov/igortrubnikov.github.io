@@ -5,7 +5,7 @@ window.SOHA_MENU = [
     "vi": "Cà Phê Đen Nóng / Đá",
     "en": "Black coffee · hot / iced",
     "ru": "Чёрный кофе · горячий / со льдом",
-    "price": 18,
+    "price": 20,
     "image": "assets/drinks/ca-phe-den.webp"
   },
   {
@@ -647,7 +647,7 @@ window.SOHA_MENU = [
     "vi": "Trân Châu Đen Dẻo",
     "en": "Chewy black tapioca pearls",
     "ru": "Мягкие чёрные жемчужины тапиоки",
-    "price": 6,
+    "price": 5,
     "image": "assets/toppings/tran-chau-den-deo.webp"
   },
   {
@@ -656,7 +656,7 @@ window.SOHA_MENU = [
     "vi": "Phô Mai Bò Cười",
     "en": "The Laughing Cow cheese",
     "ru": "Сыр «Весёлая коровка»",
-    "price": 6,
+    "price": 10,
     "image": "assets/toppings/pho-mai-bo-cuoi.webp"
   },
   {
@@ -665,7 +665,7 @@ window.SOHA_MENU = [
     "vi": "Bánh Flan Nhỏ",
     "en": "Mini caramel flan",
     "ru": "Мини-флан с карамелью",
-    "price": 8,
+    "price": 10,
     "image": "assets/toppings/banh-flan-nho.webp"
   },
   {
